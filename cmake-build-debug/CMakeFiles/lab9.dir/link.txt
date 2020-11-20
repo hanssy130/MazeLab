@@ -1,1 +1,1 @@
-C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/lab9.dir/main.cpp.o  -o lab9.exe -Wl,--out-implib,liblab9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/lab9.dir/driver.cpp.o CMakeFiles/lab9.dir/maze_factory.cpp.o CMakeFiles/lab9.dir/maze_game.cpp.o CMakeFiles/lab9.dir/maze.cpp.o CMakeFiles/lab9.dir/door.cpp.o CMakeFiles/lab9.dir/room.cpp.o CMakeFiles/lab9.dir/wall.cpp.o  -o lab9.exe -Wl,--out-implib,liblab9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
