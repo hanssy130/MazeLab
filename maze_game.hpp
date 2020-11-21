@@ -1,5 +1,5 @@
 //
-// Created by Justin and Dylan on 11/19/2020.
+// Created by Justin and Hans on 11/19/2020.
 //
 
 #ifndef LAB9_MAZE_GAME_HPP
