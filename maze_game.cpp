@@ -4,6 +4,7 @@
 
 #include "maze_game.hpp"
 
+// Creates maze with 2 rooms, 8 walls, and 1 door between both rooms.
 maze *maze_game::create_maze(maze_factory *mazeFactory) {
     maze* maze;
     maze = mazeFactory->make_maze();
